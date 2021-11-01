@@ -1,6 +1,6 @@
 <div align ="center">
 
-### 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙁𝙧𝙚𝙨𝙝 [💎]
+###  "𝙃𝙚𝙡𝙡𝙤 - 𝙬𝙤𝙧𝙡𝙙"
 
 </div>
 
@@ -19,17 +19,19 @@
 
 ---
 
+- I'm Fresh [💎]
+
+- Cursando JavaScript [🌐]
+
+- Formado em Py [✓]
+
+- Nerd por natureza [🤓]
+
+- Front-end [🖥️]
+
+- Full-stacks 
 
 
-𝙰𝚖𝚘 𝙲# e 𝙹s 𝚎 sou 𝙵𝚘𝚛𝚖𝚊𝚍𝚘 𝚎𝚖 𝙿𝚢
-
-𝘐 𝘭𝘰𝘷𝘦 𝘊 #, 𝘑s 𝘈𝘕𝘋 𝘎𝘙𝘈𝘋𝘜𝘈𝘛𝘌𝘋 𝘐𝘕 𝘗𝘠
-
-~
-
-𝙰𝚌𝚊𝚋𝚎𝚒 𝚍𝚎 𝚌𝚛𝚒𝚊𝚛 𝚎𝚜𝚜𝚊 𝚌𝚘𝚗𝚝𝚊 :)
-
-𝙸 𝚓𝚞𝚜𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚝𝚑𝚒𝚜 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 ;)
 
 ---
 
@@ -69,5 +71,25 @@
 
 </div>
 
+##
+
+<div>
+
+<a href="https://api.whatsapp.com/send?phone=5515988171796" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+<a href = "mailto: caioneresf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://twitter.com/Fresh_duGrau?t=wZkWKZF4cnqb-etRJjAGFQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=cyan"></a>
+
+
+</div>
+
+
+
+##
+
+<p align ="center">
+
+<Img src = "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" />
+
+</p>
 
 
