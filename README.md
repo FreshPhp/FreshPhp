@@ -29,7 +29,6 @@
 
 - Front-end [🖥️]
 
-- Full-stacks 
 
 
 
@@ -56,6 +55,13 @@
   <img align="center" alt="Fresh333-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fresh333-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
+  
+
+   <img align="right" alt="Fresh333-pic" height="180" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/93295405?v=4">
+        
+        
+  
+  
   </div>
 
 
@@ -78,13 +84,41 @@
 <a href="https://api.whatsapp.com/send?phone=5515988171796" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 <a href = "mailto: caioneresf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://twitter.com/Fresh_duGrau?t=wZkWKZF4cnqb-etRJjAGFQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=cyan"></a>
-
+<a href= "https://github.com/Fresh333"   target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
 
 
 ##
+  
+  
+<div>
+ 
+
+
+ 
+
+
+
+   
+
+
+ 
+
+  ![Snake animation](https://github.com/Fresh333/Fresh333/blob/output/github-contribution-grid-snake.svg)  
+  
+  
+
+
+
+  
+  </div>
+  
+  
+  
+  
+  
 
 <p align ="center">
 
