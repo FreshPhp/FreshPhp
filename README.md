@@ -97,6 +97,8 @@
  
 
 
+  ![Snake animation](https://github.com/Fresh333/Fresh333/blob/output/github-contribution-grid-snake.svg)
+
 
    
 
