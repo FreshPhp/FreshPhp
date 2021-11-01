@@ -57,7 +57,7 @@
  
   
 
-   <img align="right" alt="Fresh333-pic" height="180" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/93295405?v=4">
+   <img align="right" alt="Fresh333-pic" height="150" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/93295405?v=4">
         
         
   
@@ -97,18 +97,15 @@
  
 
 
- 
-
-
 
    
 
 
  
 
-  ![Snake animation](https://github.com/Fresh333/Fresh333/blob/output/github-contribution-grid-snake.svg)  
+
   
-  
+
 
 
 
