@@ -1,6 +1,6 @@
 <div align ="center">
 
-###  "𝙃𝙚𝙡𝙡𝙤 - 𝙬𝙤𝙧𝙡𝙙"
+###  "𝙃𝙚𝙡𝙡𝙤 - 𝙬𝙤𝙧𝙡𝙙"   <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width = "29px">
 
 </div>
 
