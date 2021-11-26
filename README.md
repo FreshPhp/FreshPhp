@@ -23,8 +23,6 @@
 
 - Cursando JavaScript [🌐]
 
-- Formado em Py [✓]
-
 - Nerd por natureza [🤓]
 
 - Front-end [🖥️]
