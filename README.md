@@ -25,7 +25,7 @@
 
 - Nerd por natureza [🤓]
 
-- Front-end [🖥️]
+- Back-end [🖥️]
 
 
 
