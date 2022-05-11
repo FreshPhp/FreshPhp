@@ -38,8 +38,8 @@
 
 <div align = "center">
   <a href="https://github.com/Fresh333">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Fresh333&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fresh333&layout=compact&langs_count=7&theme=dracula" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=FreshPhp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FreshPhp&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 <img align="center" alt="FreshPhp-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="FreshPhp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="FreshPhp-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- ​  <img align="center" alt="Fresh333-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ ​  <img align="center" alt="FreshPhp-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="right" alt="FreshPhp-pic" height="150" style="border-radius:70px;" src="https://avatars.githubusercontent.com/u/93295405?v=4">
         
         
