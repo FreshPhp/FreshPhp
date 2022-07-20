@@ -23,10 +23,6 @@
 
 - Cursando JavaScript [🌐]
 
-- Nerd por natureza [🤓]
-
-- Gosto de criar bots [🤖]
-
 - Back-end [🖥️]
 
 
