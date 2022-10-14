@@ -21,9 +21,9 @@
 
 - I'm Fresh [💎]
 
-- Cursando JavaScript [🌐]
+- Estudando ReactJs [🌐]
 
-- Back-end [🖥️]
+- Programador Junior [🖥️]
 
 
 
