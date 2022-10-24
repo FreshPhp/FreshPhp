@@ -21,9 +21,9 @@
 
 - I'm Fresh [💎]
 
-- Estudando ReactJs [🌐]
+- Interior de SP [🌐]
 
-- Programador Junior [🖥️]
+- Coffee.drink();
 
 
 
